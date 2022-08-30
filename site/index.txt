@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>PTICA - blog o pticama</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<link href="stil.css" type ="text/css" rel="stylesheet" />
+
+		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> 
+		<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet"> 	
+	</head>
+
+	<body>
+		<div class="omotac">
+			<header>
+				<h1>Blog</h1>  
+				<nav>
+					<ul>
+						<li><a href="index.html" class="trenutni">vijesti</a></li>
+						<li><a href="">o autoru</a></li>
+						<li><a href="kontakt.html">kontakt</a></li>
+						<li><a href="">prijava</a></li>
+					</ul>
+				</nav>
+			</header>
+
+			<section class="clanak">
+				<article>
+					<figure class ="efekt">
+						<img src="slike/vrabac.jpg" alt="ptica vrabac" />
+						<figcaption>Vrabac</figcaption>
+					</figure>
+					<hgroup>
+						<h2>Vrabac</h2>
+						<h3>Ptica pjevica</h3>
+					</hgroup>
+					<p>
+						Obični vrabac, vrabac pokućar, domaći vrabac a često i vrabac je ptica pjevica 
+					    koja pripada porodici vrabaca. Danas je poznato više od 12 vrsta domaćeg vrapca. 
+					</p>
+
+				</article>    
+				<article>
+					<figure class ="efekt">
+						<img src="slike/brgljez.jpg" alt="ptica brgljez" />
+						<figcaption>Brgljez</figcaption>
+					</figure>
+					<hgroup>
+						<h2>Brgljez</h2>
+						<h3>Šumska ptica</h3>
+					</hgroup>
+					<p>
+					    Brgljezi obično žive u parovima ili malim grupama. Tokom zime se često udružuju s
+					   jatima sjenica, djetlića i ostalih šumskih ptica koje traže hranu. 				
+					</p>
+				</article>    
+				<article>
+					<figure class ="efekt">
+						<img src="slike/kakadu.jpg" alt="ptica kakadu" />
+						<figcaption>Kakadu</figcaption>
+					</figure>
+					<hgroup>
+						<h2>Papiga</h2>
+						<h3>Tropska ptica</h3>
+					</hgroup>
+					<p>
+					   Papige su porodica ptica iz reda papigašica. U ovu porodicu ubraja se najveći dio 
+					   vrsta iz ovog reda, iznimka su samo kakadui. 									
+					</p>
+					<br /> <br /> <br /> <br /> <br /> <br />
+				</article>    
+			</section>
+
+			<aside>
+				
+				<section class="blog">
+					<h2>O blogu</h2>
+					<p>
+					   <em>
+					       Dobrodošli na blog o pticama.  <br /> <br /> Ptice su razred dvonožnih, 
+					       toplokrvnih kralježnjaka koji polažu jaja, a evoluirale su od dinosaura 
+					       podreda Theropoda.
+					   </em>  
+					</p>
+				</section>
+				<section class="poveznice">
+					<h2>Poveznice</h2>
+					<a href="https://hr.wikipedia.org/wiki/Ptice">O pticama (wikipedia)</a>
+					<a href="www.ptice.hr/">Društvo za zaštitu ptica</a>
+					<a href="www.allaboutbirds.org">Vodič o pticama</a>
+					<a href="www.birds.cornell.edu">Ptice za djecu</a>
+					<br /> <br /> <br /> <br /> <br /> <br />
+				</section>
+			</aside>
+
+			<footer>
+				&copy; 2016 Internetske tehnologije
+			</footer>
+		</div><!-- .omotac -->
+	</body>
+</html>
